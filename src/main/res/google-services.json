@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "693542496040",
+    "firebase_url": "https://biddingswipe.firebaseio.com",
+    "project_id": "biddingswipe",
+    "storage_bucket": "biddingswipe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693542496040:android:5237aed9b712130f9e121d",
+        "android_client_info": {
+          "package_name": "com.learning.biddingswipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693542496040-82iesanges4brujs3b6c7gmvudrvousj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfmzvB-jJYStQKdUa-hlVg1C_WuqNH0GU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693542496040-82iesanges4brujs3b6c7gmvudrvousj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

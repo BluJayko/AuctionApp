@@ -6,16 +6,21 @@
     android:id="@+id/drawer"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.cool.auctionapp.LogInActivity">
+    tools:context=".HomeActivity">
 
-    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:tools="http://schemas.android.com/tools"
+    <LinearLayout
         android:id="@+id/linear_layout_home"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:padding="8dp"
         tools:context=".activities.HomeActivity"
         android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/Username"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Username" />
 
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/recycler_view_home"
@@ -46,11 +51,4 @@
 
     </com.google.android.material.navigation.NavigationView>
 
-
 </androidx.drawerlayout.widget.DrawerLayout>
-
-
-
-
-
-

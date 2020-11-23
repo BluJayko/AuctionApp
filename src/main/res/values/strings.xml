@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AuctionApp</string>
+    <string name="app_name">Bidding Swipe</string>
     <string name="open">Open</string>
     <string name="close">Close</string>
     <string name="title_activity_add_post">AddPostActivity</string>
